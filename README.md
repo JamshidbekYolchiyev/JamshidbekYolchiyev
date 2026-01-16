@@ -1,6 +1,6 @@
 <!-- PROFILE README for Jamshidbek Yolchiyev -->
 
-# 👋 Hi, I'm Jamshidbek Yulchiyev
+# 👋 Hi, I'm Jamshidbek Yulchiev
 
 📍 Philadelphia, PA (USA)  
 🎓 Graphic Information Technology (Web / Front-End Focus)  
