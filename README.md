@@ -33,9 +33,11 @@ I enjoy learning by building real projects and improving step-by-step.
 ---
 
 ## 📊 GitHub Stats
-![Jamshidbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamshidbekYolchiyev&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshidbekYolchiyev&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=JamshidbekYolchiyev&show_icons=true&theme=default" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshidbekYolchiyev&layout=compact" />
+
 
 ---
 
