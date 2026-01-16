@@ -39,12 +39,4 @@ I enjoy learning by building real projects and improving step-by-step.
 
 ---
 
-## 🔗 Links
-*(Add your links below when you’re ready)*
-- LinkedIn: https://www.linkedin.com/in/your-link-here
-- CodePen: https://codepen.io/your-link-here
-- Portfolio: https://your-website-here.com
-
----
-
 ⭐ Thanks for visiting my profile!
